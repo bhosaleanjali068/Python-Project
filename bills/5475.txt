@@ -1,0 +1,13 @@
+	Welcome to our shop
+
+ Bill Number : 5475
+ Customer Name : 12
+ Phone Number : 12
+ =====================================
+ Products		QTY		Price
+ =====================================
+ Bath Soap		1		40
+ -------------------------------------
+ Cosmetic Tax			Rs. 2.0
+ Total Bill			Rs. 42.0
+ -------------------------------------

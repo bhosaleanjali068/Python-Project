@@ -1,0 +1,13 @@
+	Welcome to our shop
+
+ Bill Number : 9600
+ Customer Name : anjali
+ Phone Number : 123
+ =====================================
+ Products		QTY		Price
+ =====================================
+ Food Oil		2		360
+ -------------------------------------
+ Grocery Tax			Rs. 36.0
+ Total Bill			Rs. 396.0
+ -------------------------------------
